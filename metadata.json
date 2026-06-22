@@ -1,0 +1,6 @@
+{
+  "name": "AI Music Generator",
+  "description": "An interactive deep learning playground for AI Music Generation. Parse MIDI note sequences, customize recursive neural networks (RNN/LSTM/Transformers), visualize training dynamics, and synthesize new musical patterns to play and download as standard MIDI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

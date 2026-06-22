@@ -1,2 +1,20 @@
-# CodeAlpha_AI_musicgenerator
-🎵 AI Neural Orchestrator is an interactive music generation platform that combines AI-inspired composition techniques, real-time audio synthesis, and an advanced piano-roll sequencer. Users can create, visualize, and experiment with musical patterns, neural network settings, and sound design through a modern and responsive web interface. 🚀🎹
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/12daf086-9388-4a98-98a7-1f972e12e5da
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
